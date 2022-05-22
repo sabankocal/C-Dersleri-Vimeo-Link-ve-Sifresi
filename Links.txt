@@ -7,8 +7,8 @@ LESSON-4		https://vimeo.com/708860806				classic pwd
 LESSON-5		https://vimeo.com/709294104				classic pwd
 LESSON-6		https://vimeo.com/710168312				classic pwd
 LESSON-7		https://vimeo.com/711534153				classic pwd
-LESSON-8		https://vimeo.com/711843714
-
+LESSON-8		https://vimeo.com/711843714				classic pwd
+LESSON-9        https://vimeo.com/712547059             classic pwd
 
 Others:
 PERFORMANCE  	https://vimeo.com/708297847            classic pwd
