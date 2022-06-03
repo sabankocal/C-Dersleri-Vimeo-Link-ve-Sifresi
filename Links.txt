@@ -12,7 +12,9 @@ LESSON-9		https://vimeo.com/712547059				classic pwd
 LESSON-10		https://vimeo.com/713869877				classic pwd
 LESSON-11		https://vimeo.com/714414610				classic pwd
 LESSON-12		https://vimeo.com/714960088				classic pwd
-LESSON-13       https://vimeo.com/716178949
+LESSON-13		https://vimeo.com/716178949				classic pwd
+LESSON-14		https://vimeo.com/716728883				classic pwd
+
 
 
 Others:
