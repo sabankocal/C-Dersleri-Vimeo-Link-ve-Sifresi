@@ -23,8 +23,8 @@ LESSON-20 		https://vimeo.com/721345338				classic pwd
 LESSON-21 		https://vimeo.com/721939033				classic pwd
 LESSON-22 		https://vimeo.com/723251608				classic pwd
 LESSON-23 		https://vimeo.com/723689734				classic pwd
-LESSON-24            https://vimeo.com/724178013       classic pwd
-LESSON-25             https://vimeo.com/725437182       classic pwd
+LESSON-24                   https://vimeo.com/724178013                 classic pwd
+LESSON-25                   https://vimeo.com/725437182                 classic pwd
 
 
 
