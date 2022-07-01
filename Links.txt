@@ -17,15 +17,15 @@ LESSON-14		https://vimeo.com/716728883				classic pwd
 LESSON-15		https://vimeo.com/717250456				classic pwd
 LESSON-16		https://vimeo.com/718643439				classic pwd
 LESSON-17		https://vimeo.com/718872702				classic pwd
-LESSON-18 		https://vimeo.com/719608233			classic pwd
-LESSON-19 		https://vimeo.com/721951332					
+LESSON-18 		https://vimeo.com/719608233			    classic pwd
+LESSON-19 		https://vimeo.com/721951332			    classic pwd		
 LESSON-20 		https://vimeo.com/721345338				classic pwd
 LESSON-21 		https://vimeo.com/721939033				classic pwd
 LESSON-22 		https://vimeo.com/723251608				classic pwd
 LESSON-23 		https://vimeo.com/723689734				classic pwd
-LESSON-24                 https://vimeo.com/724178013                      classic pwd
-LESSON-25                 https://vimeo.com/725437182                      classic pwd
-    
+LESSON-24       https://vimeo.com/724178013             classic pwd
+LESSON-25       https://vimeo.com/725437182             classic pwd
+LESSON-26       https://vimeo.com/725842299             classic pwd
 
 
 Others:
