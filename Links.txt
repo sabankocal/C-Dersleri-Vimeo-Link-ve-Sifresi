@@ -28,6 +28,8 @@ LESSON-25	https://vimeo.com/725437182				classic pwd
 LESSON-26	https://vimeo.com/725842299				classic pwd
 LESSON-27	https://vimeo.com/726455955				classic pwd
 LESSON-28	https://vimeo.com/729807421				classic pwd
+LESSON-29	https://vimeo.com/730268787				classic pwd
+LESSON-30	https://vimeo.com/730733451				classic pwd
 
 Others:
 PERFORMANCE  	https://vimeo.com/708297847            classic pwd
