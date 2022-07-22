@@ -61,5 +61,20 @@ https://docs.google.com/presentation/d/1SoSOYIYk9nf12bLrGs9grbOwzsmCkZKDG_5m8PXE
 08.06.2022_C_Programmming:
 https://docs.google.com/presentation/d/1Fo8kHXF6m7ouI7ImWGXVUfg8-FjSqRPS8G7eDKYivBA/edit?usp=sharing
 
+
+---------------------------
+
 19.06.2022_C_Programmming:
 https://docs.google.com/presentation/d/1vYaOeFl7iOCjlCSBKJNGPXo7Pii04rTprgBIUe1Jl2Q/edit#slide=id.g1313d851791_0_183
+
+
+---------------------------
+
+
+21.07.2022_C_Programmming:
+https://docs.google.com/presentation/d/1_eD09NvGrAh4PdB-teV_NVr7QukemWKG1kf4eGJSTvM/edit?usp=sharing
+
+---------------------------
+
+
+---------------------------
